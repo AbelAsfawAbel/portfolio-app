@@ -1,5 +1,6 @@
 import React from "react";
-import HeroImage from "../assets/heroImage.png";
+import HeroImage from "../assets/insta.jpg";
+//import HeroImage from "../assets/heroImage.png";
 import { MdOutlineKeyboardArrowRight } from "react-icons/md";
 import { Link } from "react-scroll";
 
@@ -15,7 +16,7 @@ const Home = () => {
             I'm a Full Stack Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-            I have 2 years of experience building and desgining software.
+            I have 2 years of experience building software.
             Currently, I love to work on web application using technologies like
             React, Tailwind,Bootstrap, React Js,Node Js,Express Js,MongoDB and MySQL.
           </p>
@@ -39,7 +40,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="rounded-2xl mx-auto w-2/3 md:w-full"
+            className="rounded-2xl mx-auto w-2/3 md:w-30"
           />
         </div>
       </div>

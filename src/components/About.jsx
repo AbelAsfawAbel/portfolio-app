@@ -14,23 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+         Hello there! I'm Abel Asfaw Haileyesus, a 24-year-old Computer Science BSc graduate. Specializing as a Junior Fullstack Developer, I wield a diverse toolkit. From frontend finesse in HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, and React.js to backend prowess in Node.js, Express.js, MySQL, and MongoDB, I'm equipped to tackle dynamic projects.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+        Seeking new challenges, I am eager to contribute my skills to a Fullstack role that values innovation and collaboration. Well-versed in version control systems, I bring a meticulous approach to development, ensuring efficient project management. Let's connect and create something exceptional together!
         </p>
       </div>
     </div>
